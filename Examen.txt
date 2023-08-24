@@ -1,0 +1,15 @@
+Matricula: 90
+Nombre: gh
+Materia: gh
+Grado: gh
+Calificacion: 5
+Matricula: 90
+Nombre: gh
+Materia: gh
+Grado: gh
+Calificacion: 9
+Matricula: 90
+Nombre: gh
+Materia: gh
+Grado: gh
+Calificacion: 9
